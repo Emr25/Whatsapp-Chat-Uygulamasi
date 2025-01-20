@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0rqcumBZgRXYTG6QrQ3hLC78ibHRWUaULwwkZnraK/M=",
+  "Source": "SignalChat",
+  "BasePath": "_content/SignalChat",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
